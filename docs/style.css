@@ -1,0 +1,10 @@
+@font-face
+{
+    font-family: 'BWDialoge';
+    src: url('fonts/pokemon-b-w.otf.woff2');
+}
+body
+{
+    background-color: grey;
+    font-family: serif;
+}

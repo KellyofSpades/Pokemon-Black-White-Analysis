@@ -5,7 +5,7 @@ We think these should be the same simple search and replace on any source file t
 
 
 1. Remove literal `\n` and `\c` characters:
-     * Search: `\\[nc]`
+     * Search: `\\[ncr]`
      * Replace: 
       (replaced with a space)
 
@@ -14,17 +14,12 @@ We think these should be the same simple search and replace on any source file t
      * Replace `\n`
      (replaced with with a single newline to preserve line boundaries)
 
-3. Found more regex pattern characters to remove:
-     * Search: `\\[rv]`
-     * Replace:
-      (repaced with a space)
-
-4. Remove the literal  `[NULL]` strings.  THIS IS A LITERAL STRING SEARCH, not a regex pattern. Shut off Regular expressions for this.
+3. Remove the literal  `[NULL]` strings.  THIS IS A LITERAL STRING SEARCH, not a regex pattern. Shut off Regular expressions for this.
      * Search: `[NULL]`
      * Replace:
      (repaced with a space)
 
-5. Change the square-bracketted game variables to simplify them as a series of underscores.
+4. Change the square-bracketted game variables to simplify them as a series of underscores.
      * Search: `\[.+?\]`
      * Replace: `_____`
 

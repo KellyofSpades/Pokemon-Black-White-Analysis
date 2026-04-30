@@ -51,3 +51,8 @@ div.index-nav
     border: 0.2rem solid #FFFFFF;
     padding: 0 0.5rem;
 }
+div.pokeball
+{
+    width: 20vw;
+    height: 15vh;
+}

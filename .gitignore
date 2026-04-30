@@ -3,7 +3,7 @@
 .DS_Store
 .DS_Store?
 ._*
-.ini
+*.ini
 .Spotlight-V100
 .Trashes
 ehthumbs.db

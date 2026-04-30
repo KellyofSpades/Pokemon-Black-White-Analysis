@@ -1,101 +1,101 @@
-rank	EN_lemma	EN_count	DE_lemma	DE_count	AR_from_EN_lemma	AR_from_EN_count	AR_from_DE_lemma	AR_from_DE_count
-1	many	341	_	303	رائِع	462	رائِع	454
-2	good	334	schwarz	211	خاصّ	343	خاصّ	442
-3	more	304	nächster	184	أَكْثَر	307	آخَر	294
-4	different	212	anderer	183	آخَر	267	أَكْثَر	238
-5	strong	208	weiß	158	رِياضِيّ	235	أُخْرَى	209
-6	right	195	gut	153	أُخْرَى	208	قادِم	186
-7	other	176	neu	153	مُخْتَلِف	164	رِياضِيّ	172
-8	little	161	groß	126	كَبِير	139	جَدِيد	167
-9	great	155	klein	107	صَحِيح	137	جَيِّد	154
-10	sure	127	folgend	83	جَيِّد	125	مُخْتَلِف	153
-11	ok	124	aktuell	78	أَفْضَل	120	دائِم	149
-12	next	117	ganz	76	مُمْتِع	117	طَوِيل	138
-13	nice	109	heutig	74	جَدِيد	111	صَحِيح	138
-14	happy	104	verschieden	73	قادِم	110	أَفْضَل	135
-15	new	97	alt	67	فارِغ	109	حالِيّ	127
-16	sorry	94	eigen	66	أَوَّل	107	أَوَّل	118
-17	bad	86	stark	63	قَوِيّ	104	تالِي	118
-18	same	85	letzter	61	مُفَضَّل	93	كَبِير	115
-19	favorite	83	richtig	44	قَلِيل	85	قَلِيل	111
-20	fun	82	erster	44	بَعْض	85	فارِغ	111
-21	big	81	beliebt	44	مُهِمّ	82	قَرِيب	110
-22	popular	69	lang	38	دائِم	77	قَوِيّ	98
-23	old	68	lieb	35	طَوِيل	74	أَخِير	93
-24	important	67	weit	34	ثَلاث	66	مُهِمّ	79
-25	amazing	64	besonderer	33	مُذْهِل	65	ثَلاث	76
-26	wonderful	62	unterschiedlich	33	أُسْطُورِيّ	65	حَقِيقِيّ	74
-27	full	61	beliebte	33	عَدِيد	63	أُسْطُورِيّ	74
-28	much	60	hoch	32	بَعِيد	62	مُمْتِع	73
-29	first	59	wahr	32	سَعِيد	59	بَعْض	71
-30	legendary	59	legendär	31	أَخِير	58	أَكْبَر	68
-31	well	56	jung	30	صَعْب	50	مُذْهِل	66
-32	able	55	schön	30	مُوسِيقِيّ	49	عَدِيد	65
-33	cool	48	gleich	29	ثُلاثِيّ	47	مُمَيَّز	60
-34	own	45	bestimmt	29	قَرِيب	44	بَعِيد	60
-35	long	42	berühmt	29	قَدِيم	44	مُوسِيقِيّ	59
-36	young	42	toll	24	أَعْلَى	43	شَعْبِيّ	56
-37	hard	41	Anerkannte	24	مُمَيَّز	41	سَعِيد	55
-38	ready	40	frei	24	أَرْبَع	41	قَدِيم	54
-39	musical	40	einzig	23	سَبْع	40	يَوْمِيّ	54
-40	tough	38	häufig	22	لاحِق	40	يابانِيّ	54
-41	special	38	heimisch	22	هادِئ	38	سَرِيع	48
-42	cute	37	klar	20	مَمْنُوع	38	أَرْبَع	48
-43	enough	36	Aller	20	مُمْتاز	37	مُفَضَّل	47
-44	tired	36	Hollaho	20	أَكْبَر	37	لاحِق	46
-45	weak	35	echt	19	وَحِيد	37	مِثالِيّ	42
-46	fine	34	ruhig	18	مُعْجَب	36	صَعْب	42
-47	true	31	wunderbar	17	إِضافِيّ	36	ثُلاثِيّ	41
-48	beautiful	29	voll	17	إِحْصائِيّ	34	كامِل	40
-49	clear	27	drahtlos	16	مُفِيد	33	سابِق	39
-50	bored	27	menschlich	15	فَرْدِيّ	33	هادِئ	38
-51	lucky	27	mysteriös	15	شَعْبِيّ	33	واضِح	38
-52	awesome	27	großartig	15	مُتَحَرِّك	33	سَبْع	37
-53	only	27	wöchentlich	15	يابانِيّ	33	عَزِيز	37
-54	free	27	wild	14	عالَمِيّ	32	قادِر	36
-55	certain	26	technisch	14	حَقِيقِيّ	32	مُناسِب	35
-56	short	26	schlecht	14	تالِي	32	مَمْنُوع	35
-57	interesting	24	unabhängig	14	لَطِيف	31	وَحِيد	35
-58	glad	24	selten	13	مُسْتَعِدّ	31	مُعْجَب	35
-59	correct	24	süß	13	فائِق	30	لَطِيف	34
-60	exciting	23	Legendären	13	مُزْدَوِج	29	مُتَحَرِّك	34
-61	last	23	gesamt	12	ماضِي	28	تابِع	34
-62	perfect	23	heiter	12	مُحِيط	27	مُفِيد	33
-63	common	23	Astrologisch	12	سابِق	27	مُمْكِن	33
-64	busy	22	gewiß	11	عادِيّ	27	غَرِيب	32
-65	most	21	korrekt	11	مِثالِيّ	27	شَدِيد	31
-66	interested	21	verliebt	11	سَرِيع	26	غِنائِيّ	31
-67	wild	21	schlau	11	مُناسِب	25	قائِم	30
-68	cold	21	lustig	11	وَطَنِيّ	24	فَرْدِيّ	30
-69	easy	20	gegnerisch	10	حالِيّ	24	فائِق	29
-70	mysterious	20	herzlich	10	تَقْنِيّ	24	طَيِّب	29
-71	real	20	einzeln	10	شَخْصِيّ	24	مُحَدَّد	28
-72	fantastic	20	fantastisch	10	غامِض	24	مُزْدَوِج	28
-73	kind	20	vereint	10	غِنائِيّ	24	عالَمِيّ	28
-74	electric	20	passend	9	مُرِيح	23	أَساسِيّ	27
-75	tall	20	zweiter	9	فَعّال	23	طَبِيعِيّ	27
-76	slow	19	entfernt	9	كامِل	23	فَلَكِيّ	27
-77	difficult	19	verschlossen	9	أُولَى	22	قَصِير	26
-78	rich	19	rein	9	طَبِيعِيّ	22	تَقْنِيّ	26
-79	strange	18	zahlreich	9	قادِر	22	أَعْلَى	25
-80	high	18	tief	8	شَدِيد	22	لَذِيذ	24
-81	single	18	national	8	قِتالِيّ	21	ماضِي	24
-82	friendly	18	absolut	8	تِجارِيّ	21	مُهْتَمّ	24
-83	careful	18	nötig	8	سِتّ	21	دُرِّيّ	24
-84	close	18	geliebt	8	مُتَعَدِّد	20	فَرِيد	23
-85	jealous	18	riesig	8	مُخَصَّص	20	مُسْتَعِدّ	23
-86	surprised	17	falsch	8	أَساسِيّ	20	مُتَعَدِّد	22
-87	powerful	17	entscheidend	8	يَوْمِيّ	19	مُمْتاز	22
-88	such	17	rechter	8	مُظْلِم	19	بَرِّيّ	22
-89	second	17	Legendär	8	نارِيّ	19	نادِر	21
-90	hot	17	Weißer	8	لاسِلْكِيّ	18	سِتّ	21
-91	scared	16	wunderschön	7	ذاهِب	18	فَعّال	21
-92	excellent	16	nett	7	كَهْرَبائِيّ	18	غامِض	21
-93	effective	16	Besten	7	نادِر	17	مَرْمُوق	21
-94	few	16	speziell	7	واضِح	17	شَخْصِيّ	20
-95	delicious	16	aufregend	7	مُهْتَمّ	17	هائِل	20
-96	serious	16	selber	7	مُعَيَّن	17	ٱِثْنانِ	20
-97	everyday	16	unglaublich	7	مُسْتَحِيل	17	عَظِيم	19
-98	rare	15	natürlich	7	عَلَوِيّ	16	مُظْلِم	19
-99	excited	15	schwer	7	شَهِير	16	عادِيّ	19
-100	scary	15	wichtig	7	لَذِيذ	15	قِتالِيّ	19
+rank	EN_lemma	EN_count	EN_tokens	DE_lemma	DE_count	DE_tokens	AR_from_EN_lemma	AR_from_EN_count	AR_from_EN_tokens	AR_from_DE_lemma	AR_from_DE_count	AR_from_DE_tokens
+1	many	341	[Many, many]	_	303	[_]	رائِع	462	[الرائع, الرائعة, الرائعين, رائع, رائعاً, رائعة, رائعةٌ, رائعين, رائعًا, رائعٌ, رائعٍ, ورائع, ورائعاً, ورائعة]	رائِع	454	[الرائع, الرائعة, الرائعين, رائع, رائعان, رائعاً, رائعة, رائعةً, رائعةٌ, رائعتان, رائعون, رائعين, رائعًا, رائعٌ, ورائع, ورائعة]
+2	good	334	[Best, Good, best, good]	schwarz	211	[Schwarze, Schwarzen, schwarze, schwarzen]	خاصّ	343	[الخاص, الخاصة, خاص, خاصاً, خاصة, خاصتك, خاصتي, خاصية, خاصًا, خاصٌ]	خاصّ	442	[الخاص, الخاصة, خاص, خاصاً, خاصة, خاصةً, خاصتك, خاصتنا, خاصتي, خاصية]
+3	more	304	[more]	nächster	184	[nächste, nächsten, nächster, nächstes]	أَكْثَر	307	[أكثر, أكثرَ, الأكثر, فأكثر, وأكثر, والأكثر]	آخَر	294	[آخر, آخرون, آخرين, آخرًا, الآخر, الآخرون, الآخرين, لآخر, للآخرين, وآخرون, والآخر, والآخران]
+4	different	212	[Different, different]	anderer	183	[andere, anderen, anderer, anderes]	آخَر	267	[آخر, آخران, آخرون, آخرين, آخرًا, الآخر, الآخران, الآخرون, الآخرين, بآخر, بالآخرين, فاخراً, فاخرًا, لآخر, للآخر, للآخرين, والآخر]	أَكْثَر	238	[أكثر, الأكثر, بأكثر, فأكثر, وأكثر, والأكثر]
+5	strong	208	[Strong, strong, stronger, strongest]	weiß	158	[Weiße, Weißen, weiße, weißen]	رِياضِيّ	235	[الرياضي, الرياضية, الرياضيون, الرياضيين, بالرياضيين, رياضي, رياضية, رياضيي, رياضيّك, والرياضيون]	أُخْرَى	209	[أخرى, أخريات, الأخرى, بأخرى, وأخرى]
+6	right	195	[Right, right]	gut	153	[Gute, Guten, bessere, besseren, besserer, beste, besten, bester, gute, guten, guter, gutes]	أُخْرَى	208	[أخرى, الأخرى, بأخرى, وأخرى]	قادِم	186	[القادم, القادمة, القادمين, قادم, قادمة, قادمًا, قادمٌ]
+7	other	176	[other]	neu	153	[Neue, neue, neuem, neuen, neuer, neues, neuesten]	مُخْتَلِف	164	[المختلفة, المختلفين, مختلف, مختلفاً, مختلفة, مختلفةٍ, مختلفون, مختلفين, مختلفًا, مُختلفةٍ, ومختلفة]	رِياضِيّ	172	[الرياضي, الرياضية, الرياضيون, الرياضيين, رياضي, رياضية, رياضيي, رياضيًا, رياضيّك]
+8	little	161	[Little, little]	groß	126	[große, großem, großen, großer, großes, größere, größeren, größerer, größte, größten, größter, größtes]	كَبِير	139	[الكبير, الكبيرة, كبير, كبيراً, كبيرة, كبيرةً, كبيرًا]	جَدِيد	167	[الجدد, الجديد, الجديدة, جديد, جديداً, جديدة, جديدًا]
+9	great	155	[Great, great, greater, greatest]	klein	107	[Kleiner, kleine, kleinen, kleiner, kleines]	صَحِيح	137	[الصحيح, الصحيحة, صحيح, صحيحاً, صحيحةٌ, صحيحًا]	جَيِّد	154	[الجيد, الجيدة, الجيدين, جيد, جيداً, جيدة, جيدين, جيدًا, وجيدة]
+10	sure	127	[sure]	folgend	83	[folgende, folgenden]	جَيِّد	125	[الجيد, الجيدة, الجيدون, جيد, جيداً, جيدة, جيدةً, جيدًا, وجيداً]	مُخْتَلِف	153	[المختلفة, المختلفين, مختلف, مختلفاً, مختلفة, مختلفةً, مختلفتين, مختلفين, مختلفًا]
+11	ok	124	[OK]	aktuell	78	[aktuelle, aktuellen, aktuelles]	أَفْضَل	120	[أفضل, أفضّل, أُفضّل, الأفضل, بأفضل, كأفضل, للأفضل, والأفضل]	دائِم	149	[الدائم, دائم, دائماً, دائمة, دائمًا]
+12	next	117	[Next, next]	ganz	76	[ganze, ganzem, ganzen, ganzes]	مُمْتِع	117	[الممتع, الممتعة, ممتع, ممتعاً, ممتعة, ممتعًا, مُمتعة, وممتع, وممتعاً, وممتعة]	طَوِيل	138	[الطويل, الطويلة, طوال, طويل, طويلاً, طويلة, طويلًا]
+13	nice	109	[Nice, nice, nicer]	heutig	74	[heutige, heutigen, heutiger, heutiges]	جَدِيد	111	[الجدد, الجديد, الجديدة, جديد, جديداً, جديدة, جديدةً, جديدًا, وجديد]	صَحِيح	138	[الصحيح, الصحيحة, صحيح, صحيحاً, صحيحة, صحيحًا]
+14	happy	104	[Happy, happier, happy]	verschieden	73	[verschiedene, verschiedenen, verschiedener]	قادِم	110	[القادم, القادمة, قادم, قادماً, قادمة, قادمًا]	أَفْضَل	135	[أفضل, أفضّل, الأفضل, بأفضل, بالأفضل, للأفضل]
+15	new	97	[New, Newer, new, newer]	alt	67	[Alte, Alten, Alter, alte, alten, alter, altes, ältere, älteren, älteste]	فارِغ	109	[الفارغ, بفارغ, فارغ, فارغة]	حالِيّ	127	[الحالي, الحالية, حالياً, حاليًا]
+16	sorry	94	[Sorry, sorry]	eigen	66	[eigen, eigene, eigenem, eigenen, eigener, eigenes]	أَوَّل	107	[أول, أولاً, أولًا, الأول, بأول, لأول, ولأول]	أَوَّل	118	[أول, أولاً, أولًا, الأول, الأولية, بأول, لأول, وأول]
+17	bad	86	[Bad, bad, worse]	stark	63	[starke, starken, starker, starkes, stärkere, stärkerer, stärkste, stärksten]	قَوِيّ	104	[القوية, قوي, قويان, قوياً, قوية, قويًا, قويٌّ, وقوية, وقويتها, وقويًا]	تالِي	118	[التالي, التالية, وبالتالي]
+18	same	85	[Same, same]	letzter	61	[letzte, letzten, letzter, letztes]	مُفَضَّل	93	[المفضل, المفضلة, المفضلون, المفضلين, المُفضّل, مفضلة, مفضلك]	كَبِير	115	[الكبير, الكبيرة, الكبيرتين, كبير, كبيراً, كبيرة, كبيرةً, كبيرًا, كبيرٍ]
+19	favorite	83	[Favorite, favorite]	richtig	44	[richtige, richtigen, richtiger]	قَلِيل	85	[القليل, قليل, قليلاً, قليلة, قليلًا]	قَلِيل	111	[القليل, القليلة, القليلين, بقليل, قليل, قليلاً, قليلة, قليلًا, قليلٌ]
+20	fun	82	[fun]	erster	44	[Erstes, erste, ersten, erstes]	بَعْض	85	[البعض, ببعض, ببعضه, ببعضها, ببعضهم, ببعضٍ, بعضاً, بعضًا, لبعض]	فارِغ	111	[بفارغ, فارغ, فارغة, فارغًا]
+21	big	81	[Big, big, bigger, biggest]	beliebt	44	[beliebte, beliebten, beliebtes, beliebteste, beliebtesten]	مُهِمّ	82	[المهم, مهم, مهما, مهماً, مهمة, مهمًا, مهمٌ]	قَرِيب	110	[القريب, القريبة, قريب, قريباً, قريبة, قريبتين, قريبًا]
+22	popular	69	[Popular, popular]	lang	38	[lange, langen, langer, längere, längerer, längste]	دائِم	77	[دائماً, دائمًا, ودائماً]	قَوِيّ	98	[القوية, قوي, قويان, قوياً, قوية, قويًا, قويٌ, قويٌّ, وقوياً, وقويًا]
+23	old	68	[Older, old, older, oldest]	lieb	35	[liebe, lieben, lieber, liebes, liebste, liebsten]	طَوِيل	74	[الطويل, الطويلة, طوال, طويل, طويلاً, طويلة, طويلًا]	أَخِير	93	[أخير, أخيراً, أخيرًا, الأخير, الأخيرة, وأخيراً, وأخيرًا]
+24	important	67	[important]	weit	34	[Weitere, weite, weiten, weiter, weitere, weiteren, weiteres]	ثَلاث	66	[الثلاث, الثلاثة, ثلاث, ثلاثة, لثلاثة]	مُهِمّ	79	[المهم, فمهما, مهم, مهما, مهمة, ومهما]
+25	amazing	64	[Amazing, amazing]	besonderer	33	[Besondere, besondere, besonderen, besonderer, besonderes]	مُذْهِل	65	[المذهل, المذهلة, مذهل, مذهلاً, مذهلة, مذهلًا, مُذهل]	ثَلاث	76	[الثلاث, الثلاثة, بثلاثة, ثلاث, ثلاثة, وثلاثة]
+26	wonderful	62	[Wonderful, wonderful]	unterschiedlich	33	[unterschiedliche, unterschiedlichen, unterschiedlicher]	أُسْطُورِيّ	65	[أسطوري, أسطوريان, أسطورية, أسطوريًا, الأسطوري, الأسطورية, الأسطوريين]	حَقِيقِيّ	74	[الحقيقي, الحقيقية, الحقيقيين, حقيقي, حقيقياً, حقيقية, حقيقيون, حقيقيًا]
+27	full	61	[Full, full, fullest]	beliebte	33	[beliebteste]	عَدِيد	63	[العديد, العديدة, بالعديد, عديدة, للعديد, والعديد]	أُسْطُورِيّ	74	[أسطوري, أسطوريًا, الأسطوري, الأسطورية]
+28	much	60	[much]	hoch	32	[hohe, hohen, hoher, hohes, höchste, höchsten, höhere, höheren]	بَعِيد	62	[البعيد, البعيدة, بعيد, بعيداً, بعيدة, بعيدين, بعيدًا, بعيدٍ]	مُمْتِع	73	[الممتع, ممتع, ممتعاً, ممتعة, ممتعتان, ممتعًا, وممتع, وممتعة]
+29	first	59	[First, first]	wahr	32	[wahre, wahren, wahrer, wahres, wahrsten]	سَعِيد	59	[السعيد, السعيدة, سعداء, سعيداً, سعيدة, سعيدًا, وسعداء]	بَعْض	71	[البعض, ببعض, ببعضها, ببعضهم, بعضاً, بعضًا, لبعض]
+30	legendary	59	[legendary]	legendär	31	[Legendäre, legendäre, legendären, legendäres]	أَخِير	58	[أخيراً, أخيرة, أخيرًا, أخيرٌ, الأخير, الأخيرة, وأخيراً, وأخيرًا, والأخيرة]	أَكْبَر	68	[أكبر, الأكبر, بأكبر]
+31	well	56	[better, well]	jung	30	[junge, jungen, junger, junges, jüngere, jüngeren]	صَعْب	50	[الصعب, الصعبة, صعب, صعباً, صعبة, صعبًا]	مُذْهِل	66	[المذهل, المذهلة, مذهل, مذهلاً, مذهلة]
+32	able	55	[able]	schön	30	[schöne, schönen, schöner, schönes]	مُوسِيقِيّ	49	[الموسيقي, الموسيقية, موسيقي, موسيقية, موسيقيين, موسيقيًا]	عَدِيد	65	[العديد, العديدة, بالعديد, عديدة, والعديد]
+33	cool	48	[cool, cooler, coolest]	gleich	29	[gleiche, gleichen, gleicher]	ثُلاثِيّ	47	[الثلاثي, الثلاثية, ثلاثي, ثلاثية, ثلاثيًا]	مُمَيَّز	60	[المميز, المميزة, مميز, مميزاً, مميزة, مميزةً, مميزين, مميزًا, مميزٌ, مميزٍ, والمميزة, ومميزة]
+34	own	45	[own]	bestimmt	29	[bestimmte, bestimmten, bestimmter, bestimmtes]	قَرِيب	44	[القريبة, قريب, قريباً, قريبة, قريبًا, قريبٍ]	بَعِيد	60	[البعيدة, ببعيد, بعيد, بعيداً, بعيدة, بعيدين, بعيدًا, والبعيدة]
+35	long	42	[long]	berühmt	29	[berühmte, berühmten, berühmter]	قَدِيم	44	[القديم, القديمة, قديم, قديماً, قديمة, قديمٍ, وقديم]	مُوسِيقِيّ	59	[الموسيقي, الموسيقية, موسيقي, موسيقياً, موسيقية, موسيقيًا]
+36	young	42	[Young, young, younger]	toll	24	[tolle, tollen, toller, tollere, tolles]	أَعْلَى	43	[أعلى, الأعلى, العليا, للأعلى]	شَعْبِيّ	56	[الشعبية, شعبي, شعبية, شعبيةً, شعبيتها]
+37	hard	41	[hard, harder, hardest]	Anerkannte	24	[Anerkannte]	مُمَيَّز	41	[المميز, المميزة, المميزين, مميز, مميزاً, مميزة, مميزًا]	سَعِيد	55	[السعيدة, سعداء, سعيداً, سعيدة, سعيدةً, سعيدًا]
+38	ready	40	[Ready, ready]	frei	24	[Freie, Freien, Freier, freie, freiem, freien, freier]	أَرْبَع	41	[أربعة, الأربعة, لأربعة, وأربعة]	قَدِيم	54	[القديم, القديمة, قديم, قديماً, قديمة, وقديماً]
+39	musical	40	[Musical, musical]	einzig	23	[einzige, einzigem, einzigen, einziger, einziges]	سَبْع	40	[السبعة, سبعة]	يَوْمِيّ	54	[اليومي, اليومية, يومياً, يومية, يوميًا]
+40	tough	38	[Tough, tough, tougher, toughest]	häufig	22	[häufigste]	لاحِق	40	[لاحق, لاحقاً, لاحقًا]	يابانِيّ	54	[اليابانية, اليابانيين, باليابانية]
+41	special	38	[special]	heimisch	22	[heimischen]	هادِئ	38	[الهادئة, هادئ, هادئاً, هادئة, هادئةً, هادئًا, هادئٌ, والهادئ]	سَرِيع	48	[السريع, السريعة, سريع, سريعاً, سريعة, سريعًا]
+42	cute	37	[cute, cuter, cutest]	klar	20	[Klare, klare, klarem, klarer, klares]	مَمْنُوع	38	[ممنوع, ممنوعة]	أَرْبَع	48	[أربعة, الأربعة, بأربعة]
+43	enough	36	[Enough, enough]	Aller	20	[Aller]	مُمْتاز	37	[ممتاز, ممتازاً, ممتازة, ممتازين, وممتازة, وممتازٌ]	مُفَضَّل	47	[المفضل, المفضلة, المفضلين]
+44	tired	36	[tired]	Hollaho	20	[hollaho]	أَكْبَر	37	[أكبر, الأكبر, وأكبر]	لاحِق	46	[اللاحق, لاحق, لاحقاً, لاحقًا]
+45	weak	35	[Weak, weak, weaker, weakest]	echt	19	[echte, echten, echter, echtes]	وَحِيد	37	[الوحيد, الوحيدة, وحيداً, وحيدة, وحيدين, وحيدًا, ووحيداً]	مِثالِيّ	42	[المثالي, المثالية, مثالي, مثالياً, مثالية, مثاليين, مثاليًا]
+46	fine	34	[fine, finest]	ruhig	18	[ruhige, ruhigen, ruhigeres, ruhiges]	مُعْجَب	36	[المعجبين, معجب, معجباً, معجبة, معجبةٌ, معجبون, معجبي, معجبيك, معجبيّ, معجبًا, مُعجبيك, مُعجبٌ, ومعجب]	صَعْب	42	[الصعب, الصعبة, صعب, صعباً, صعبة, صعبًا, صعبٌ]
+47	true	31	[True, true]	wunderbar	17	[wunderbare, wunderbaren, wunderbarer, wunderbares]	إِضافِيّ	36	[إضافي, إضافياً, إضافية, إضافيًا, الإضافي, الإضافية]	ثُلاثِيّ	41	[الثلاثي, الثلاثية, ثلاثي, ثلاثية, للثلاثي]
+48	beautiful	29	[Beautiful, beautiful]	voll	17	[volle, vollen, voller, volles]	إِحْصائِيّ	34	[إحصائيات, إحصائيون, إحصائيًا, الإحصائي, الإحصائيات, الإحصائية, الإحصائيون, الإحصائيين]	كامِل	40	[الكامل, الكاملة, بالكامل, بكامل, كامل, كاملاً, كاملة, كاملًا]
+49	clear	27	[Clear, clear]	drahtlos	16	[Drahtlose, Drahtloser, drahtlose]	مُفِيد	33	[المفيدة, مفيد, مفيدة, مفيدةً, مفيدًا, مفيدٌ, مُفيد]	سابِق	39	[السابق, السابقة, السابقون, سابق, سابقاً, سابقًا]
+50	bored	27	[bored]	menschlich	15	[menschliche, menschlichen, menschlicher, menschliches]	فَرْدِيّ	33	[الفردي, الفردية, فردي, فردية]	هادِئ	38	[الهادئة, هادئ, هادئاً, هادئة, هادئٌ, وهادئ, وهادئة]
+51	lucky	27	[Lucky, lucky]	mysteriös	15	[Mysteriösen, mysteriöse, mysteriösen, mysteriöser]	شَعْبِيّ	33	[شعبية]	واضِح	38	[الواضح, الواضحة, واضح, واضحة, واضحين]
+52	awesome	27	[Awesome, awesome]	großartig	15	[Großartiges, großartige, großartigen, großartiger, großartiges]	مُتَحَرِّك	33	[المتحرك, المتحركة, متحرك]	سَبْع	37	[السبعة, سبعة]
+53	only	27	[only]	wöchentlich	15	[wöchentlichen]	يابانِيّ	33	[اليابانية, باليابانية]	عَزِيز	37	[أعزائي, الأعزاء, العزيزة, عزيزتي]
+54	free	27	[Free, free]	wild	14	[Wilde, wilde, wilden, wildes]	عالَمِيّ	32	[العالمي, العالمية, العالميين, عالمي, عالمياً, عالمية, عالميًا]	قادِر	36	[القادرة, قادر, قادراً, قادرة, قادرون, قادرين, قادرًا, قادرٌ, قادرٍ, وقادرون]
+55	certain	26	[certain]	technisch	14	[Technische, Technischen]	حَقِيقِيّ	32	[الحقيقي, الحقيقية, حقيقي, حقيقياً, حقيقية]	مُناسِب	35	[المناسب, مناسب, مناسباً, مناسبًا, مناسبٌ]
+56	short	26	[short]	schlecht	14	[schlechte, schlechten, schlechter, schlechtere, schlechtes]	تالِي	32	[التالي, التالية, وبالتالي]	مَمْنُوع	35	[ممنوع, وممنوع]
+57	interesting	24	[Interesting, interesting]	unabhängig	14	[unabhängige]	لَطِيف	31	[اللطيفة, لطيفاً, لطيفة, لطيفًا, ولطيفة, ولطيفًا]	وَحِيد	35	[الوحيد, الوحيدة, وحيداً, وحيدًا, ووحيدة]
+58	glad	24	[Glad, glad]	selten	13	[seltene, seltenen, seltener, seltenes]	مُسْتَعِدّ	31	[المستعد, مستعد, مستعداً, مستعدة, مستعدون, مستعدين, مستعدًا, مستعدٌ, مستعدٌّ]	مُعْجَب	35	[المعجبين, معجب, معجبة, معجبي, معجبيك, معجبين, معجبٌ]
+59	correct	24	[correct]	süß	13	[süße, süßen, süßer, süßes]	فائِق	30	[الفائق, الفائقة, فائق, فائقة]	لَطِيف	34	[اللطيفة, لطيفاً, لطيفة, لطيفًا, واللطيفة, ولطيفًا]
+60	exciting	23	[Exciting, exciting]	Legendären	13	[Legendären]	مُزْدَوِج	29	[المزدوج, المزدوجة, مزدوج, مزدوجة]	مُتَحَرِّك	34	[المتحرك, المتحركة, متحرك]
+61	last	23	[Last, last]	gesamt	12	[gesamte, gesamten, gesamter]	ماضِي	28	[الماضي, الماضية, بالماضي]	تابِع	34	[تابعان, تابعة, تابعونا]
+62	perfect	23	[perfect]	heiter	12	[heiterem, heiteren, heiteres]	مُحِيط	27	[المحيط, المحيطة, المحيطون, والمحيطات]	مُفِيد	33	[المفيد, المفيدة, مفيد, مفيداً, مفيدة, مفيدًا, مُفيدًا]
+63	common	23	[common]	Astrologisch	12	[Astrologisches]	سابِق	27	[السابق, السابقة, سأبقيك, سابق, سابقاً, سابقًا]	مُمْكِن	33	[الممكن, الممكنة, ممكن, ممكناً, ممكنة, مُمكن]
+64	busy	22	[Busy, busier, busy]	gewiß	11	[gewisse, gewissen, gewisser, gewisses]	عادِيّ	27	[العادي, العادية, عادي, عادياً, عادية, عاديًا]	غَرِيب	32	[الغريبة, غريباً, غريبة, غريبًا]
+65	most	21	[most]	korrekt	11	[korrekte, korrekten]	مِثالِيّ	27	[المثالي, المثالية, مثالي, مثاليان, مثالياً, مثالية, مثاليةً, مثاليًا, مثاليٌّ]	شَدِيد	31	[الشديد, شديدة]
+66	interested	21	[Interested, interested]	verliebt	11	[Verliebte, Verliebten]	سَرِيع	26	[السريع, السريعة, سريع, سريعة, سريعةً, سريعًا]	غِنائِيّ	31	[الغنائية, غنائي, غنائية]
+67	wild	21	[wild, wilder]	schlau	11	[schlauen]	مُناسِب	25	[المناسب, مناسب, مناسباً, مناسبًا, مناسبٌ]	قائِم	30	[القائم, القائمة, قائم, قائمة, قائمًا]
+68	cold	21	[cold]	lustig	11	[lustigen]	وَطَنِيّ	24	[الوطني, الوطنية]	فَرْدِيّ	30	[الفردي, الفردية, فردي, فردية]
+69	easy	20	[easier, easy]	gegnerisch	10	[gegnerische, gegnerischen]	حالِيّ	24	[الحالي, الحالية, حالياً, حاليًا]	فائِق	29	[الفائق, الفائقة, فائق, فائقة]
+70	mysterious	20	[Mysterious, mysterious]	herzlich	10	[Herzlichen, herzlichen]	تَقْنِيّ	24	[التقني, التقنية, تقني, تقنية]	طَيِّب	29	[الطيبون, الطيبين, طيب, طيبة, طيبين]
+71	real	20	[Real, real]	einzeln	10	[einzelne, einzelnen, einzelner, einzelnes]	شَخْصِيّ	24	[الشخصية, شخصي, شخصيًا]	مُحَدَّد	28	[المحدد, المحددة, محدد, محددة, مُحدد]
+72	fantastic	20	[Fantastic, fantastic]	fantastisch	10	[fantastische, fantastischen, fantastischer, fantastisches]	غامِض	24	[الغامض, الغامضة, غامض, غامضة, غامضًا, غامضٌ]	مُزْدَوِج	28	[المزدوج, المزدوجة, مزدوج, مزدوجة]
+73	kind	20	[kind]	vereint	10	[vereinten]	غِنائِيّ	24	[الغنائية]	عالَمِيّ	28	[العالمي, العالمية, عالمي, عالمياً, عالمية, عالميًا]
+74	electric	20	[Electric, electric]	passend	9	[passende, passenden, passender, passendes]	مُرِيح	23	[المريح, مريح, مريحاً, مريحة, مريحًا, ومريح, ومريحة]	أَساسِيّ	27	[أساسي, أساسيات, أساسية, أساسيًا, الأساسي, الأساسيات, الأساسية, بالأساسيات]
+75	tall	20	[tall]	zweiter	9	[zweite, zweiten]	فَعّال	23	[الفعال, الفعّال, فعال, فعالاً, فعالة, فعالًا, فعّال, فعّالة]	طَبِيعِيّ	27	[الطبيعي, الطبيعية, طبيعي, طبيعية]
+76	slow	19	[slow, slower]	entfernt	9	[entfernte, entfernten]	كامِل	23	[الكامل, الكاملة, بالكامل, بكامل, كامل, كاملة]	فَلَكِيّ	27	[الفلكي, فلكية]
+77	difficult	19	[difficult]	verschlossen	9	[verschlossene, verschlossenen]	أُولَى	22	[الأولى]	قَصِير	26	[القصير, القصيرة, قصير, قصيرة, قصيرًا]
+78	rich	19	[Rich, rich, richer]	rein	9	[reinem, reinen, reiner, reines, reinste]	طَبِيعِيّ	22	[الطبيعي, الطبيعية, طبيعي, طبيعياً, طبيعية]	تَقْنِيّ	26	[التقني, التقنية, بتقنية, تقنية]
+79	strange	18	[Strange, strange, stranger]	zahlreich	9	[zahlreichen]	قادِر	22	[قادر, قادراً, قادرة, قادرون, قادرين, وقادر]	أَعْلَى	25	[أعلى, الأعلى, العليا, عليا]
+80	high	18	[high, higher, highest]	tief	8	[tiefen, tiefer, tiefes, tiefsten]	شَدِيد	22	[الشديد, الشديدة, الشديدين, شديدة]	لَذِيذ	24	[اللذيذة, لذيذ, لذيذاً, لذيذة, لذيذًا]
+81	single	18	[SINGLE, Single, single]	national	8	[Nationalen, nationalen]	قِتالِيّ	21	[القتالي, قتالية, قتاليًا]	ماضِي	24	[الماضي, الماضية, بالماضي, ماضية]
+82	friendly	18	[friendly]	absolut	8	[absolute, absoluten, absoluter]	تِجارِيّ	21	[التجاري, التجارية, تجاري, تجارياً, تجارية]	مُهْتَمّ	24	[مهتم, مهتماً, مهتمون, مهتمًا]
+83	careful	18	[Careful, careful]	nötig	8	[nötige, nötigen]	سِتّ	21	[الستة, ستة, لستة]	دُرِّيّ	24	[دريك]
+84	close	18	[close, closer]	geliebt	8	[Geliebte, geliebten, geliebtes]	مُتَعَدِّد	20	[المتعدد, المتعددة, متعدد, متعددة]	فَرِيد	23	[الفريد, الفريدة, فريدا, فريداً, فريدة, فريدًا]
+85	jealous	18	[jealous]	riesig	8	[riesige, riesigen, riesiger]	مُخَصَّص	20	[المخصص, المخصصة, مخصص, مخصصة]	مُسْتَعِدّ	23	[المستعدون, المستعدين, مستعد, مستعداً, مستعدة, مستعدون, مستعدين, مستعدًا]
+86	surprised	17	[surprised]	falsch	8	[falsche, falschen, falscher]	أَساسِيّ	20	[أساسيات, أساسياً, أساسية, الأساسيات, الأساسية]	مُتَعَدِّد	22	[المتعدد, المتعددة, متعدد, متعددة]
+87	powerful	17	[powerful]	entscheidend	8	[entscheidende, entscheidenden, entscheidender]	يَوْمِيّ	19	[اليومي, اليومية, يومياً]	مُمْتاز	22	[الممتاز, ممتاز, ممتازة]
+88	such	17	[Such, such]	rechter	8	[rechte, rechten]	مُظْلِم	19	[المظلم, المظلمة]	بَرِّيّ	22	[البري, البرية, برياً, برية]
+89	second	17	[Second, second]	Legendär	8	[Legendären]	نارِيّ	19	[الناري, النارية, نارية, ناريٌّ]	نادِر	21	[النادر, النادرة, نادر, نادرة, نادرةٌ, نادرون, نادرًا]
+90	hot	17	[hot, hottest]	Weißer	8	[Weißer]	لاسِلْكِيّ	18	[اللاسلكي, اللاسلكية, لاسلكي]	سِتّ	21	[الستة, بستة, ستة]
+91	scared	16	[Scared, scared]	wunderschön	7	[wunderschöne, wunderschönen, wunderschönes]	ذاهِب	18	[ذاهب, ذاهباً, ذاهبين]	فَعّال	21	[الفعالة, الفعّالة, فعال, فعالة, فعالًا, فعّال, وفعالة]
+92	excellent	16	[Excellent, excellent]	nett	7	[nette, netten, netter]	كَهْرَبائِيّ	18	[الكهربائي, الكهربائية, كهربائي, كهربائية]	غامِض	21	[الغامض, الغامضة, غامض, غامضة, غامضًا, غامضٌ, وغامضة]
+93	effective	16	[effective]	Besten	7	[Besten]	نادِر	17	[النادر, النادرة, نادر, نادرة, ونادر]	مَرْمُوق	21	[المرموقة, مرموقة]
+94	few	16	[Few, few, fewer]	speziell	7	[spezielle, speziellen, spezieller, spezielles]	واضِح	17	[الواضح, الواضحة, وأضحك, واضح, واضحة, واضحين, واضحًا, وواضح]	شَخْصِيّ	20	[الشخصي, الشخصية, شخصياً, شخصيًا]
+95	delicious	16	[Delicious, delicious]	aufregend	7	[aufregende, aufregendes]	مُهْتَمّ	17	[مهتم, مهتماً, مهتمة, مهتمةٌ, مهتمًا, مهتمٌّ]	هائِل	20	[الهائل, الهائلة, هائل, هائلة, هائلًا]
+96	serious	16	[serious]	selber	7	[selben]	مُعَيَّن	17	[معين, معيناً, معينة, معينًا]	ٱِثْنانِ	20	[اثنان, واثنان]
+97	everyday	16	[everyday]	unglaublich	7	[unglaubliche, unglaublichen, unglaubliches]	مُسْتَحِيل	17	[المستحيل, مستحيل, مستحيلة]	عَظِيم	19	[العظيمة, عظيم, عظيماً, عظيمة, عظيمةً]
+98	rare	15	[Rare, rare]	natürlich	7	[natürliche, natürlichen, natürliches]	عَلَوِيّ	16	[العلوي]	مُظْلِم	19	[المظلم, المظلمة]
+99	excited	15	[excited]	schwer	7	[Schweren, schwere, schweren, schwerer]	شَهِير	16	[الشهير, الشهيرة, شهير, شهيرةٌ]	عادِيّ	19	[العادي, العادية, عادي, عادية]
+100	scary	15	[scary]	wichtig	7	[wichtige, wichtigen, wichtiger, wichtiges, wichtigste]	لَذِيذ	15	[اللذيذ, اللذيذة, لذيذ, لذيذة, لذيذًا]	قِتالِيّ	19	[القتالي, القتالية, قتالية]

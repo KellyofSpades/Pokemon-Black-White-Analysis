@@ -6,6 +6,18 @@ body
     font-family: Georgia;
     font-size: 0.9em;
 }
+h2
+{
+    text-decoration: underline;
+}
+div.border
+{
+    border: 0.125rem solid black;
+}
+p
+{
+    margin-left: 1vh;
+}
 div.legendaries
 {
     display: flex;
@@ -22,4 +34,20 @@ div.legendaries
 div.legendaries h1
 {
     min-width: 450px;
+}
+div.index-nav
+{
+    width: 20vw;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url('images/pokeball.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    margin-bottom: 5vh;
+    border: 0.2rem solid #FFFFFF;
+    padding: 0 0.5rem;
 }

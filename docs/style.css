@@ -31,6 +31,9 @@ div.legendaries
     width: 20vw;
     height: 15vw;
 }
+iframe {width: 1000px;
+height:1000px;
+
 div.legendaries h1
 {
     min-width: 450px;
@@ -42,8 +45,7 @@ div.index-nav
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    align-items: center;
-    background-image: url('images/pokeball.png');
+    align-items: center;    background-image: url('images/pokeball.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
@@ -51,7 +53,8 @@ div.index-nav
     border: 0.2rem solid #FFFFFF;
     padding: 0 0.5rem;
 }
-div.pokeball
+
+}div.pokeball
 {
     width: 20vw;
     height: 15vh;

@@ -1,17 +1,25 @@
 body
 {
-    background-color: #A6A6A6;
+    background-color: #1070A0;
     background-size: cover;
     color: white;
-    font-family: serif;
-    font-size: 2em;
+    font-family: Georgia;
+    font-size: 0.9em;
 }
 div.legendaries
 {
     display: flex;
+    align-items: center;
+    gap: 32px;
     flex-direction: row;
+    row-gap: 1.5rem;
     margin-top: 5vh;
     margin-bottom: 10vh;
+    margin-left: 55px;
     width: 20vw;
     height: 15vw;
+}
+div.legendaries h1
+{
+    min-width: 450px;
 }

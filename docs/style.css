@@ -12,8 +12,9 @@ h2
 }
 div.border
 {
-    border: 0.125rem solid black;
+    border: 0.125rem solid #3F3548;
     padding: 0.5em;
+    margin-bottom: 1em;
 }
 p
 {

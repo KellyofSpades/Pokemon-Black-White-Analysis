@@ -10,10 +10,52 @@ h1
 {
     text-decoration: underline;
 }
+div.border
+{
+    border: 0.15rem solid #3F3548;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+a
+{
+    color: #58EFC4;
+    font-size: 1.25em;
+}
+a:hover
+{
+    color: #4644B2;
+    transition: color 0.2s ease;
+}
 iframe 
 {
     width: 1000px;
     height:1000px;
+}
+div.creators
+{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    flex-direction: row;
+    row-gap: 1.5rem;
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+    margin-left: 55px;
+    width: 20vw;
+    height: 15vw;
+}
+div.purpleSoul
+{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    flex-direction: row;
+    row-gap: 1.5rem;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 40px;
+    width: 15vw;
+    height: 10vw;
 }
 nav
 {

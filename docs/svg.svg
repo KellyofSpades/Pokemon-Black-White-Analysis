@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline"></g>
+    <svg width="400" height="200">
+        <rect x="10" y="10" width="50" 
+            height="1000" fill="blue" />
+        <text  x="300" y="50" fill="blue"> 9206 adjective </text>
+        <!-- Bar 2 -->
+        <rect x="70" y="30" width="50"
+            height="700" fill="green" />
+        <text x="300" y="100" fill="green"> 7938 adjective </text>
+        <!-- Bar 3 -->
+        <rect x="130" y="50" width="50"
+            height="1400" fill="red" />
+        <text x="200" y="20" fill="red"> 7803 adjective </text>
+        <!-- bar 4 -->
+        <rect x="200" y="90" width="50" height="1700" fill="gold"/>
+     <text x="200" y="50" fill="gold"> 5083 adjective
+     </text>
+    </svg>
+</svg>

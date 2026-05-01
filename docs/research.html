@@ -6,8 +6,97 @@
     </head>
     <body>
         <nav>
-        <a class="index-nav" href="index.html"><img class="index-img" src="images/pokeball.png" alt="Poke Ball" /> <span class="index-text">Index</span></a>   <a class="research-nav" href="research.html"><img class="research-img" src="images/cherishball.png" alt="Cherish Ball"/><span class="research-text">Research</span></a>   <a class="german-nav" href="german.html"><img class="german-img" src="images/greatball.png" alt="Great Ball"/><span class="german-text">German</span></a>   <a class="arabic-nav" href="arabic.html"><img class="arabic-img" src="images/ultraball.png" alt="Ultra Ball"/><span class="arabic-text">Arabic</span></a>   <a class="sources-nav" href="sources.html"><img class="sources-img" src="images/dreamball.png" alt="Dream Ball"/><span class="sources-text">Sources</span></a>
+            <a class="index-nav" href="index.html">
+                <img class="index-img" src="images/pokeball.png" alt="Poke Ball" />
+                <span class="index-text">Index</span>
+            </a>
+            <a class="research-nav" href="research.html">
+                <img class="research-img" src="images/cherishball.png" alt="Cherish Ball" />
+                <span class="research-text">Research</span>
+            </a>
+            <a class="german-nav" href="german.html">
+                <img class="german-img" src="images/greatball.png" alt="Great Ball" />
+                <span class="german-text">German</span>
+            </a>
+            <a class="arabic-nav" href="arabic.html">
+                <img class="arabic-img" src="images/ultraball.png" alt="Ultra Ball" />
+                <span class="arabic-text">Arabic</span>
+            </a>
+            <a class="sources-nav" href="sources.html">
+                <img class="sources-img" src="images/dreamball.png" alt="Dream Ball" />
+                <span class="sources-text">Sources</span>
+            </a>
         </nav>
         <h1>Research on the Project</h1>
+        <h2>What is the Point?</h2>
+        <div class="border">
+            <p>Pokémon Black and White are seen as some of the greatest Pokémon games for their
+                story telling and characters, but just how different is it to other languages?
+                During the translation progress, some things could get misinterpreted or said in a
+                different way, so we decided to take a look at the game's scripts in other languages
+                and compare how well the translations were handled.</p>
+        </div>
+        <h2>Major Hurdle: Addressing the Non-Exsistent Version</h2>
+        <div class="border">
+            <p>While an official German version of the game has been released for the public to play
+                and enjoy, we ran into an issue, how were we supposed to get the Arabic version if
+                an official game in Arabic doesn't exsist? We looked through mutliple translation
+                sites and found out that translating the documents using spaCy was easy for the
+                English and German, but Arabic had us using CAMeL Tools, specifically built for
+                Arabic NLP.</p>
+        </div>
+        <h2>Translation Process</h2>
+        <div class="border">
+            <p>Defining reusable functions for reading files and extracting adjectives was done so
+                repeating the same code wasn't necessary.</p>
+        </div>
+        <div class="screenShots">
+            <img src="images/defineOne.png" alt="Define One">
+            <img src="images/defineTwo.png" alt="Define Two">
+            <img src="images/defineThree.png" alt="Define Three">
+            <img src="images/defineFour.png" alt="Define Four">
+        </div>
+        <div class="border">
+            <p>The files were then checked to make sure none of the files were loaded incorrectly.
+                Once the files were confirmed, we could begin to count the lemma adjectives from
+                each text to get some statistics to use for the files.</p>
+        </div>
+        <div class="screenShots">
+            <img src="images/lemmaOne.png" alt="Lemma One">
+            <img src="images/lemmaTwo.png" alt="Lemma Two">
+        </div>
+        <div class="border">
+            <p>Confirming that everything worked out to display the top 20 adjectives, the number
+                can be increased to look at more and written into a TSV file for comparisons to
+                begin.</p>
+        </div>
+        <h2>Adjective Analysis through AntConc</h2>
+        <div class="border">
+            <p>Now that TSV files have been made to better read the adjectives, using AntConc can
+                give a better spread of which words are said and how many are tied to those words.
+                AntConc could show how it was reading the adjectives, which ended up being slightly
+                different with the English and German translations as AntConc was reading the "Text
+                File" labels that were still attatched to the files while the Arabic translations
+                were able to filter those out. However, this issue didn't appear when the N-Gram
+                reading was set to 1 rather than anything higher.</p>
+        </div>
+        <div class="screenShots">
+            <img src="images/antconcOne.png" alt="AntConc One">
+            <img src="images/antconcTwo.png" alt="AntConc Two">
+            <img src="images/antconcThree.png" alt="AntConc Three">
+            <img src="images/antconcFour.png" alt="AntConc Four">
+        </div>
+        <div class="border">
+            <p>Looking at the token count, the translated versions with Arabic are significantly
+                lower than the English and German translations</p>
+        </div>
+        <h2>Jupyter Notebook Analysis Results</h2>
+        <div class="border">
+            <p>Now that we have all the translations and adjectives displayed, we need to take a closer look at what exactly we are reading here. The Jupyter Notebook has a bit of dfferent results with the token count, where the English and Arabic have close token counts, while the German has significantly less, but the German to Arabic has the most out of all tokens.</p>
+        </div>
+        <div class="screenShots">
+            <img src="images/jupyterNotebook.png" alt="Jupyter Notebook">
+        </div>
+        <a href="https://kellyofspades.github.io/Pokemon-Black-White-Analysis/">Pokémon Translation Analysis</a> © 2026 by <a href="https://github.com/KellyofSpades/Pokemon-Black-White-Analysis">Kelly Anderson/Aya Sharbaji</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
     </body>
 </html>

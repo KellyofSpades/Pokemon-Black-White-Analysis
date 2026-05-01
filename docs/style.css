@@ -14,11 +14,20 @@ div.border
 {
     border: 0.125rem solid #3F3548;
     padding: 0.5em;
-    margin-bottom: 1em;
 }
 p
 {
     margin-left: 1vh;
+}
+a
+{
+    color: #58EFC4;
+    font-size: 1.25em;
+}
+a:hover
+{
+    color: #4644B2;
+    transition: color 0.2s ease;
 }
 div.legendaries
 {

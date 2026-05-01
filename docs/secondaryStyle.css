@@ -1,45 +1,14 @@
 body
 {
-    background-color: #1070A0;
+    background-color: #215A7B;
     background-size: cover;
     color: white;
     font-family: Georgia;
     font-size: 1em;
 }
-h2
+h1
 {
     text-decoration: underline;
-}
-div.border
-{
-    border: 0.125rem solid black;
-    padding: 0.5em;
-}
-p
-{
-    margin-left: 1vh;
-}
-div.legendaries
-{
-    display: flex;
-    align-items: center;
-    gap: 32px;
-    flex-direction: row;
-    row-gap: 1.5rem;
-    margin-top: 5vh;
-    margin-bottom: 10vh;
-    margin-left: 55px;
-    width: 20vw;
-    height: 15vw;
-}
-iframe 
-{
-    width: 1000px;
-    height:1000px;
-}
-div.legendaries h1
-{
-    min-width: 450px;
 }
 nav
 {

@@ -6,18 +6,22 @@
     <svg width="400" height="200">
         <rect x="10" y="10" width="50" 
             height="1000" fill="blue" />
-        <text  x="300" y="50" fill="blue"> 9206 adjective </text>
         <!-- Bar 2 -->
         <rect x="70" y="30" width="50"
             height="700" fill="green" />
-        <text x="300" y="100" fill="green"> 7938 adjective </text>
         <!-- Bar 3 -->
         <rect x="130" y="50" width="50"
             height="1400" fill="red" />
-        <text x="200" y="20" fill="red"> 7803 adjective </text>
         <!-- bar 4 -->
         <rect x="200" y="90" width="50" height="1700" fill="gold"/>
-     <text x="200" y="50" fill="gold"> 5083 adjective
-     </text>
+    </svg>
+    <svg>
+        <text  x="350" y="200" fill="blue"> 9206 adjective </text>
+        <text x="350" y="100" fill="green"> 7938 adjective </text>
+        <text x="350" y="150" fill="red"> 7803 adjective </text>
+        <text x="350" y="50" fill="gold"> 5083 adjective </text>
+        
+        
+        
     </svg>
 </svg>
